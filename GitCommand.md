@@ -22,3 +22,7 @@
 2. git commit -m "Message"
 3. git push origin main 
 4. git pull origin main 
+
+-------------------------
+
+1. git clone url
