@@ -9,5 +9,12 @@
 2. git status 
 3. git add fileName/.[All]
 4. git commit -m "message"
+5. git remote add origin [GIT_REMOTE_URL] # https://github.com/CodeMechanix/PYTH-Batch-F222-1.git
+[
+1. git branch -M main
+]
+6. git push -u origin main
+
+-------------------------
 
 
