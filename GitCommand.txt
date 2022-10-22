@@ -1,0 +1,12 @@
+>>> Globally Configure Name and Email
+
+1.  git config --global user.name "Hasan Mahmud"
+2.	git config --global user.email "hasan.mahmud8177@gmail.com"
+
+>>> Git Flow
+
+1. git init [Initialize Git in Folder]
+2. git status 
+3. git add fileName/.[All]
+
+
