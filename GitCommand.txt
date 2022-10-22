@@ -8,5 +8,6 @@
 1. git init [Initialize Git in Folder]
 2. git status 
 3. git add fileName/.[All]
+4. git commit -m "message"
 
 
