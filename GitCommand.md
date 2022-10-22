@@ -26,3 +26,12 @@
 -------------------------
 
 1. git clone url
+
+-------------------------
+
+1. fork 
+2. git clone url 
+3. change 
+4. push 
+5. pull request 
+6. Sync fork 
