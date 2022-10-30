@@ -1,0 +1,6 @@
+1.  git config --global user.name"Md.Rakibul Hasan"
+2.  git config --global user.name"rakibhasan0807@gmail.com"
+3.  git init
+4.  git add .
+
+         
